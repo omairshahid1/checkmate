@@ -1,0 +1,375 @@
+{
+    "name": "All Sections",
+    "tax_rate": "8.875",
+    "store_id": "103",
+    "menu_sections": [
+        {
+            "name": "Salads",
+            "id": 2,
+            "items": [
+                {
+                    "name": "California Protein Cobb",
+                    "tax_rate": "8.875",
+                    "image_url": "https://dpws867bovzg3.cloudfront.net/Items/19/item-19.webp",
+                    "id": 19,
+                    "price": 9.59,
+                    "description": "Cage-Free Chicken, Baby Butter Lettuce, Cage-Free Eggs, Applewood-Smoked Bacon, Edamame, Grape Tomatoes, Black Olives, Goat Cheese & Sliced Avocado. Choose Buttermilk Ranch or Fresh Herb Vinaigrette",
+                    "modifier_groups": [
+                        {
+                            "name": "Extra Ingredients",
+                            "id": 2,
+                            "amount_free": false,
+                            "amount_free_is_dollars": false,
+                            "minimum_amount": 1,
+                            "maximum_amount": 10,
+                            "modifiers": [
+                                {
+                                    "name": "Chicken",
+                                    "id": 1,
+                                    "price": 1.79,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Eggs",
+                                    "id": 2,
+                                    "price": 1.79,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Sliced Avocado",
+                                    "id": 3,
+                                    "price": 1.79,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Bacon",
+                                    "id": 4,
+                                    "price": 0.69,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Black Olives",
+                                    "id": 5,
+                                    "price": 0.69,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Edamame",
+                                    "id": 6,
+                                    "price": 0.69,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Goat Cheese",
+                                    "id": 7,
+                                    "price": 0.69,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Tomatoes",
+                                    "id": 8,
+                                    "price": 0.69,
+                                    "selected": true
+                                },
+                                {
+                                    "name": "Fresh Herb Vinaigrette",
+                                    "id": 39,
+                                    "price": 0,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Buttermilk Ranch",
+                                    "id": 23,
+                                    "price": 0,
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Add Protein",
+                            "id": 3,
+                            "amount_free": false,
+                            "amount_free_is_dollars": false,
+                            "minimum_amount": 1,
+                            "maximum_amount": 10,
+                            "modifiers": [
+                                {
+                                    "name": "Braised Pork",
+                                    "id": 41,
+                                    "price": 1.79,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Steak",
+                                    "id": 33,
+                                    "price": 2.79,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Tofu",
+                                    "id": 42,
+                                    "price": 1.79,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Quinoa",
+                                    "id": 43,
+                                    "price": 1.79,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Chicken",
+                                    "id": 44,
+                                    "price": 2.99,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Sliced Avocado",
+                                    "id": 46,
+                                    "price": 2.99,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Eggs",
+                                    "id": 45,
+                                    "price": 2.99,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Steak",
+                                    "id": 47,
+                                    "price": 3.99,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Quinoa",
+                                    "id": 49,
+                                    "price": 2.99,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Double Tofu",
+                                    "id": 48,
+                                    "price": 2.99,
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Add Ingredients",
+                            "id": 4,
+                            "amount_free": false,
+                            "amount_free_is_dollars": false,
+                            "minimum_amount": 1,
+                            "maximum_amount": 10,
+                            "modifiers": [
+                                {
+                                    "name": "Apples",
+                                    "id": 9,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Almonds",
+                                    "id": 50,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Artichoke Hearts",
+                                    "id": 51,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Black Beans",
+                                    "id": 20,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Blueberries",
+                                    "id": 25,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Fresh Herb Vinaigrette",
+                                    "id": 39,
+                                    "price": 0,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Cashews",
+                                    "id": 35,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Cheddar Cheese",
+                                    "id": 28,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Cinnamon Almonds",
+                                    "id": 24,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Corn",
+                                    "id": 19,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Dried Cranberries",
+                                    "id": 10,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Baby Cucumbers",
+                                    "id": 17,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Candied Pecans",
+                                    "id": 12,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Fontina Cheese",
+                                    "id": 11,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Golden Beets",
+                                    "id": 52,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Grapes",
+                                    "id": 53,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Kalamata Olives",
+                                    "id": 54,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Mango",
+                                    "id": 26,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Parmesan Cheese",
+                                    "id": 55,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Pickled Red Onion",
+                                    "id": 58,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Pistachios",
+                                    "id": 56,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Pearl Mozzarella",
+                                    "id": 57,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Red Onions",
+                                    "id": 18,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Strawberries",
+                                    "id": 13,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Sugar Snap Peas",
+                                    "id": 16,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Toasted Seeds",
+                                    "id": 59,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Tortilla Strips",
+                                    "id": 21,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "TriColor Peppers",
+                                    "id": 29,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Watermelon Radish",
+                                    "id": 60,
+                                    "price": 0.69,
+                                    "selected": false
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Substitute Green -CALIFORNIA COBB",
+                            "id": 6,
+                            "amount_free": false,
+                            "amount_free_is_dollars": false,
+                            "minimum_amount": 1,
+                            "maximum_amount": 10,
+                            "modifiers": [
+                                {
+                                    "name": "House Chopped mixed Greens",
+                                    "id": 61,
+                                    "price": 0.69,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Baby kale and Greens",
+                                    "id": 63,
+                                    "price": 0,
+                                    "selected": false
+                                },
+                                {
+                                    "name": "Baby Butter Lettuce",
+                                    "id": 62,
+                                    "price": 0,
+                                    "selected": false
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
